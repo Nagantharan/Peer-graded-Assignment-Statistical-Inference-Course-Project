@@ -1,7 +1,7 @@
 ---
 title: "Statistical Inference Course Project Part 1"
-author: "innuganti"
-date: "June 18, 2018"
+author: "Nagantharan Naidu"
+date: "November 07, 2020"
 output:
   html_document: default
   pdf_document: default
